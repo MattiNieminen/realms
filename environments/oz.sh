@@ -1,0 +1,13 @@
+shell="zsh"
+packages="
+  clojure
+  neovim
+  ripgrep
+  google-chrome
+"
+dots="
+  git
+  zsh
+  nixpkgs
+  nvchad
+"
