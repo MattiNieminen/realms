@@ -1,0 +1,14 @@
+shell="zsh"
+packages="
+  clojure
+  neovim
+  ripgrep
+"
+dots="
+  git
+  zsh
+  nixpkgs
+  clojure
+  nvchad
+  nvchad-custom-for-oz
+"
