@@ -1,0 +1,21 @@
+shell="zsh"
+packages="
+  dotnet-sdk_8
+  nodejs
+  azure-cli
+  neovim
+  ripgrep
+  jetbrains.rider
+  qemu
+  podman
+  podman-compose
+  ffmpeg
+  gifsicle
+"
+dots="
+  zsh
+  nixpkgs
+  macos-keychain
+  nvchad
+  nvchad-custom-for-dune
+"
